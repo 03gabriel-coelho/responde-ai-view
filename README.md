@@ -1,3 +1,4 @@
+"Remover blur das questões comentadas do responde aí #blur #respondeAí #responde #aí #remover"
 # 🧠 RespondeAI View
 
 **RespondeAI View** é uma aplicação desktop feita com [Electron](https://www.electronjs.org/), que permite inserir uma URL e gerar uma versão modificada do conteúdo HTML — removendo efeitos visuais indesejados (como `filter: blur`) e exibindo o resultado limpo no navegador.
